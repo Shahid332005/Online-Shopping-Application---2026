@@ -1,2 +1,6 @@
-# Online-Shopping-Application---2026
-Software Project Management for Applicartion
+User registration module
+feature:
+email
+password
+validation
+user profile creation
